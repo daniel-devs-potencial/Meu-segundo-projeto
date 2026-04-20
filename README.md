@@ -1,6 +1,6 @@
 # Meu Segundo Projeto
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+Linkdin: https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 Site: https://daniel-devs-potencial.github.io/Meu-segundo-projeto/
  
 Aplicação web desenvolvida em **HTML**, **CSS** e **JavaScript** para converter valores de Real para outras moedas. O projeto ilustra conceitos básicos e intermediários de manipulação de DOM e integração de lógica de conversão de moedas.
