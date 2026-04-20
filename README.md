@@ -1,6 +1,8 @@
 # Meu Segundo Projeto
 
 Site: https://daniel-devs-potencial.github.io/Meu-segundo-projeto/
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniel-raymundo-67530986" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/daniel-raymundo-67530986?trk=profile-badge">Daniel Raymundo</a></div>
+              
 
 Aplicação web desenvolvida em **HTML**, **CSS** e **JavaScript** para converter valores de Real para outras moedas. O projeto ilustra conceitos básicos e intermediários de manipulação de DOM e integração de lógica de conversão de moedas.
 
